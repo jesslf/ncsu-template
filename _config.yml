@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title: Site Title
+title: My Workshop Site!
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Jess
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "DS Librarian"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: 
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
